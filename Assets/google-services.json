@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887561330497",
+    "project_id": "maho-20fab",
+    "storage_bucket": "maho-20fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887561330497:android:0876f7972e8b9b1ee30bc0",
+        "android_client_info": {
+          "package_name": "com.Boyzzz.Maho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887561330497-95621r04vqn4dn7fagjc16scms55scqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxnNiTurShCa0rg78RH0tndZC00vzWAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887561330497-95621r04vqn4dn7fagjc16scms55scqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
